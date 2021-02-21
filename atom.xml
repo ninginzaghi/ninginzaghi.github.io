@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ninginzaghi.github.io</id>
     <title>ning</title>
-    <updated>2021-02-21T08:15:32.614Z</updated>
+    <updated>2021-02-21T08:23:05.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ninginzaghi.github.io"/>
     <link rel="self" href="https://ninginzaghi.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://ninginzaghi.github.io/images/avatar.png</logo>
     <icon>https://ninginzaghi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, ning</rights>
+    <entry>
+        <title type="html"><![CDATA[大家好我是ning]]></title>
+        <id>https://ninginzaghi.github.io/post/da-jia-hao-wo-shi-ning/</id>
+        <link href="https://ninginzaghi.github.io/post/da-jia-hao-wo-shi-ning/">
+        </link>
+        <updated>2021-02-21T08:19:51.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>希望每个人都能在这里找到乐趣，也许这就是你成功的第一步呢，祝你玩的开心谢谢大家！！！😁😁😁❤️🉑</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大家好我是ning！]]></title>
         <id>https://ninginzaghi.github.io/post/hello-gridea/</id>

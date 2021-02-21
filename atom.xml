@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ninginzaghi.github.io</id>
     <title>ning</title>
-    <updated>2021-02-21T08:23:05.499Z</updated>
+    <updated>2021-02-21T08:25:34.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ninginzaghi.github.io"/>
     <link rel="self" href="https://ninginzaghi.github.io/atom.xml"/>
@@ -22,16 +22,16 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[大家好我是ning！]]></title>
+        <title type="html"><![CDATA[特别介绍]]></title>
         <id>https://ninginzaghi.github.io/post/hello-gridea/</id>
         <link href="https://ninginzaghi.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>ning</strong> ！<br>
-✍️  <strong>ning</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+✍️  <strong>ning</strong> 是一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>ning</strong> ！<br>
-✍️  <strong>ning</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+✍️  <strong>ning</strong> 是一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>

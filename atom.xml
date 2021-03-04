@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ninginzaghi.github.io</id>
-    <title>ning</title>
-    <updated>2021-03-04T03:21:08.314Z</updated>
+    <title>jiang</title>
+    <updated>2021-03-04T03:22:05.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ninginzaghi.github.io"/>
     <link rel="self" href="https://ninginzaghi.github.io/atom.xml"/>
     <subtitle>为了寻找你 我搬进鸟的眼睛 时常盯着路边的风</subtitle>
     <logo>https://ninginzaghi.github.io/images/avatar.png</logo>
     <icon>https://ninginzaghi.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, ning</rights>
+    <rights>All rights reserved 2021, jiang</rights>
     <entry>
         <title type="html"><![CDATA[大家好我是ning]]></title>
         <id>https://ninginzaghi.github.io/post/da-jia-hao-wo-shi-ning/</id>
